@@ -10,7 +10,7 @@ import (
 
 var (
 	appName    = "demo-argocd-app"
-	appVersion = "v1.0.0"
+	appVersion = "v2.0.0"
 )
 
 func main() {
